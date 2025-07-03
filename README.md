@@ -83,9 +83,3 @@ A web portal for rural catering businesses to promote and sell their products gl
 - **Backend:** Render/Heroku
 - **Frontend:** Vercel/Netlify
 - **Justification:** Cloud hosting ensures accessibility, scalability, and reliability. MongoDB Atlas provides managed DB with backups and security.
-
-## Screenshots
-_Add screenshots/gifs of UI and animations here._
-
-## License
-MIT
